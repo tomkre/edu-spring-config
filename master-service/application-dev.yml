@@ -1,2 +1,2 @@
 app:
-  service: value [service, dev] v3
+  service: value [service, dev] v3.6
