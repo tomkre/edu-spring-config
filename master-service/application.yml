@@ -1,2 +1,2 @@
 app:
-  service: [service, default]
+  service: value [service, default]

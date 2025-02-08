@@ -1,2 +1,2 @@
 app:
-  service: [service, dev]
+  service: value [service, dev]

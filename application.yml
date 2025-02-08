@@ -1,2 +1,2 @@
 app:
-  global: [global, default]
+  global: value [global, default]
